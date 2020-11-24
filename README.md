@@ -9,7 +9,7 @@ This repository contains essential scripts for running SIRC model simulations as
 * sirc.py: provides a python implementation of the SIRC model's ODEs.
 * sirc.R: provides an R implementation of the SIRC model's ODEs.
 * sir.py: provides a python implementation of the SIR model's ODEs.
-* sirsirc.yml: a conda environment provided to setup and install the required libraries to run python simulations for sir and sirc models.
+* sirsirc.yml: a conda environment provided to setup and install the required libraries to run python simulations for SIR and SIRC models.
 
 # Before running simulations
 To setup the conda environment with dependancies, run the following:
