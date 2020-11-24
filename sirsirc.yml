@@ -1,4 +1,4 @@
-name: sirc
+name: sirsirc
 channels:
   - defaults
   - conda-forge
