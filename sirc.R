@@ -1,5 +1,3 @@
-#Ref: https://rstudio-pubs-static.s3.amazonaws.com/111132_79dd08ebb42e4e2d927c4a88729b72bd.html
-
 install.packages('deSolve')
 library (deSolve)
 
