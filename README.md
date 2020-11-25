@@ -12,7 +12,7 @@ This repository contains essential scripts for running SIRC model simulations as
 * sirsirc.yml: a conda environment provided to setup and install the required libraries to run python simulations for SIR and SIRC models.
 
 # Before running simulations
-To setup the conda environment with dependancies, run the following:
+To setup the conda environment with dependancies, download the sirsirc.yml file and run the following:
 ~~~
 conda env create -f sirsirc.yml
 ~~~
