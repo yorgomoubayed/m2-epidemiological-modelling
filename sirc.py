@@ -41,12 +41,12 @@ rho = acute_infections_proportion #acute infections
 #####################################
 # Initial values of sub-populations #
 #####################################
-X = 980 #susceptible hosts
-Y = 20 #infectious hosts
-Z = 0 #recovered hosts
-V = 0 #carrier hosts
+S = 980 #susceptible hosts
+I = 20 #infectious hosts
+R = 0 #recovered hosts
+C = 0 #carrier hosts
 
-N = X + Y + Z + V #Total population
+N = S + I + R + C #Total population
 
 #######################################################
 # Initial state values for the differential equations #
